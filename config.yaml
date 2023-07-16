@@ -25,10 +25,10 @@ params:
     faviconColor: "#000000"
 
   social:
-    dribbble: "#"
-    instagram: "#"
-    facebook: "#"
-    twitter: "#"
+    # dribbble: "#"
+    # instagram: "#"
+    # facebook: "#"
+    # twitter: "#"
 
   location:
     - "Toronto, ON, CA"
