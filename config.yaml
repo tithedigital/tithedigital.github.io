@@ -10,7 +10,10 @@ summaryLength: 20
 
 params:
   title: "Tithe"
-  description: "Connecting people and nonprofit organizations by the easiest way to support a cause, making funding better for everyone."
+  description: |
+    Connecting people and nonprofit organizations by the easiest way to support a cause, making funding better for everyone.
+
+  attribution: "Images from [Free Indian Doodle Illustration Pack](https://iconscout.com/illustration-pack/indian-doodle) by IconScout."
   images: 
     - "images/hero-image.png"
 
