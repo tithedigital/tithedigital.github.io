@@ -2,20 +2,20 @@ enabled: true
 id: "portfolio"
 
 content:
-  - image: "images/portfolio-ecommerce.png"
+  - image: "images/male-investor-gaining-profit-from-investment.png"
     pretitle: "For Contributors"
     title: "Keep and grow your cash while funding positive change"
     text: |
-      Many Canadians want to financially support charitable organizations, but large one-time or monthly recurring donations can be inaccessible for most, especially younger supporters.
-    
-      Transfer funds into Tithe, and you'll allocate a portion of your balance interest to automatically go to verified organizations you choose, while the remainder is paid to you monthly, mobilizing your money to effortlessly contribute to the causes most important to you.
-    
-      Whenever you need that money elsewhere, you can withdraw at any time to your other bank accounts via Interac e-Transfer, giving you the most flexible way to become a financial supporter for an organization.
+      Tithe makes it easier than ever to to support the causes most important to you while watching your money grow. Many Canadians want to financially support charitable organizations, but large one-time or monthly recurring donations can be inaccessible for most, especially younger supporters. 
+
+      Simply deposit into your Tithe account and allocate your money to a list of verified organizations. On a monthly basis, a portion of the interest gained on your deposit will automatically go to the organizations of your choosing with the remainder going back into your account.
+
+      Whenever you need that money elsewhere, you can withdraw at any time to your other bank accounts via Interac e-Transfer.
     buttons:
       - label: "Get on the waitlist"
         url: "https://docs.google.com/forms/d/e/1FAIpQLScXmjaQBu3bubby5HQCKUwvxsV05em87pvz8sCpDri2ZjzYgA/viewform?usp=sf_link"
 
-  - image: "images/portfolio-ecommerce.png"
+  - image: "images/girls-taking-selfie.png"
     pretitle: "For Organizations"
     title: "Be more impactful by empowering all of your supporters to contribute"
     text: |
