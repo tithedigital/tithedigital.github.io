@@ -1,6 +1,6 @@
 # tithedigital.github.io
 
-Landing page runs on [Hugo](https://gohugo.io/getting-started/usage/). After installing, run:
+Landing page runs on [Hugo](https://gohugo.io/getting-started/usage/) using the [Up Business Theme](https://themes.gohugo.io/themes/up-business-theme/). After installing, run:
 
 ```
 hugo server
