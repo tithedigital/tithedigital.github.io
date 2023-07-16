@@ -53,7 +53,7 @@ menus:
 
   buttons:
     - name: "Waitlist"
-      url: "https://forms.gle/RaeYYu2Mo6qVX9k16"
+      url: "https://docs.google.com/forms/d/e/1FAIpQLScXmjaQBu3bubby5HQCKUwvxsV05em87pvz8sCpDri2ZjzYgA/viewform?usp=sf_link"
       weight: 5
       pre: "btn btn-primary text-light"
 
