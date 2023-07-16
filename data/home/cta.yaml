@@ -2,8 +2,9 @@ enabled: true
 id: "cta"
 
 content:
-  title: "Start your business now!"
+  title: "Join the waitlist today"
+  text: "Tithe is currently in development and we are excited to be launching soon. Add your email to the mailing list and we will be inviting users to the platform upon release."
   image: "images/services-web-development.png"
   button:
-    label: "Let's talk"
-    url: "#"
+    label: "Subscribe now"
+    url: "https://forms.gle/RaeYYu2Mo6qVX9k1"

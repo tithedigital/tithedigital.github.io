@@ -3,37 +3,26 @@ id: "portfolio"
 
 content:
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
-
-    buttons: 
-      - label: "See live"
-        url: "#"
-
-      - label: "Read more"
-        url: "#"
-
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
-
-    buttons: 
-      - label: "See live"
-        url: "#"
-
-      - label: "Read more"
-        url: "#"
+    pretitle: "For Contributors"
+    title: "Keep and grow your cash while funding positive change"
+    text: |
+      Many Canadians want to financially support charitable organizations, but large one-time or monthly recurring donations can be inaccessible for most, especially younger supporters.
+    
+      Transfer funds into Tithe, and you'll allocate a portion of your balance interest to automatically go to verified organizations you choose, while the remainder is paid to you monthly, mobilizing your money to effortlessly contribute to the causes most important to you.
+    
+      Whenever you need that money elsewhere, you can withdraw at any time to your other bank accounts via Interac e-Transfer, giving you the most flexible way to become a financial supporter for an organization.
+    buttons:
+      - label: "Get on the waitlist"
+        url: "https://forms.gle/RaeYYu2Mo6qVX9k16"
 
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    pretitle: "For Organizations"
+    title: "Be more impactful by empowering all of your supporters to contribute"
+    text: |
+      You're always seeking income to fund operations, pay staff, or launch projects. One time donations are more accessible to supporters with less reliable income, but they are sporadic, so you can't reliably plan nor factor in these donors as official members.
+
+      At Tithe, we help you do more by lowering the barriers to financial contribution from your supporters to unlock previously inaccessible income.
 
     buttons: 
-      - label: "See live"
-        url: "#"
-
-      - label: "Read more"
-        url: "#"
+      - label: "Get in touch, let us work for you"
+        url: "mailto:team@tithe.digital"

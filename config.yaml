@@ -1,16 +1,16 @@
-baseURL: "https://www.example.com/"
+baseURL: "https://tithe.digital/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: "Up Business"
+title: "Tithe"
 
 # googleAnalytics: ""
 
 summaryLength: 20
 
 params:
-  title: "Up Business"
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
+  title: "Tithe"
+  description: "Connecting people and nonprofit organizations by the easiest way to support a cause, making funding better for everyone."
   images: 
     - "images/hero-image.png"
 
@@ -28,14 +28,12 @@ params:
     twitter: "#"
 
   location:
-    - "3891 Ranchview Dr. Richardson, California 62639"
-    - "4517 Washington Ave. Manchester, Kentucky 39495"
+    - "Toronto, ON, CA"
 
   contact:
-    - "trungkienspktnd@gamail.com"
-    - "207.555.0119"
+    - "team@tithe.digital"
 
-  copyright: "© 2022 Up Business All Rights Reserved"
+  copyright: "© 2023 Tithe"
 
   postProcess: false
 
@@ -45,25 +43,17 @@ menus:
       url: "/#hero"
       weight: 1
 
-    - name: "How we work"
-      url: "/#"
-      weight: 2
+    # - name: "Our team"
+    #   url: "/#"
+    #   weight: 3
 
-    - name: "Our team"
-      url: "/#"
-      weight: 3
-
-    - name: "Pricing"
-      url: "/#"
-      weight: 4
-
-    - name: "Blog"
-      url: "/blog"
-      weight: 5
+    # - name: "Blog"
+    #   url: "/blog"
+    #   weight: 5
 
   buttons:
-    - name: "Book a call"
-      url: "/#"
+    - name: "Waitlist"
+      url: "https://forms.gle/RaeYYu2Mo6qVX9k16"
       weight: 5
       pre: "btn btn-primary text-light"
 
@@ -72,21 +62,13 @@ menus:
       url: "/#hero"
       weight: 1
 
-    - name: "How we work"
-      url: "/#"
-      weight: 2
+    # - name: "Our team"
+    #   url: "/#"
+    #   weight: 2
 
-    - name: "Our team"
-      url: "/#"
-      weight: 3
-
-    - name: "Pricing"
-      url: "/#"
-      weight: 4
-
-    - name: "Blog"
-      url: "/blog"
-      weight: 5
+    # - name: "Blog"
+    #   url: "/posts"
+    #   weight: 3
 
 taxonomies:
   series: "series"

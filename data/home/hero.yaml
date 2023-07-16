@@ -2,14 +2,14 @@ enabled: true
 id: "hero"
 
 content:
-  title: "How to **level up** your business"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
+  title: "**Grow** your money and **support** causes you believe in."
+  text: ""
 
-  buttonPrimary:
-    label: "How we work"
-    url: "#"
+  # buttonPrimary:
+  #   label: "How we work"
+  #   url: "#"
 
   buttonSecondary:
-    label: "Let's talk"
-    url: ""
+    label: "Join the waitlist"
+    url: "https://forms.gle/RaeYYu2Mo6qVX9k16"
 
