@@ -4,4 +4,15 @@
       flex-direction: row-reverse;
     }
   }
+
+  .growth-image img {
+    max-height: 475px;
+    object-fit: cover;
+  }
+
+  // This is hacky. I can't figure out why markdownify has an empty
+  // <p> tag. Has something to do with the yaml multiline data.
+  .text-black-61 {
+    display: none;
+  }
 }

@@ -4,7 +4,7 @@ id: "cta"
 content:
   title: "Join the waitlist today"
   text: "Tithe is currently in development and we are excited to be launching soon. Add your email to the mailing list and we will be inviting users to the platform upon release."
-  image: "images/man-reading-newspaper.png"
+  image: "images/man-reading-newspaper.svg"
   button:
     label: "Subscribe now"
     url: "https://docs.google.com/forms/d/e/1FAIpQLScXmjaQBu3bubby5HQCKUwvxsV05em87pvz8sCpDri2ZjzYgA/viewform?usp=sf_link"

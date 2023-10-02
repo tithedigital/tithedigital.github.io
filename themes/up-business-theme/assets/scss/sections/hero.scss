@@ -1,5 +1,9 @@
 .section.hero {
-  .hero-image {
+  .hero-image img {
+    width: 459px;
+    height: 750px;
+    object-fit: cover;
+
     // @media (min-width: 1400px) {
     //   img {
     //     max-width: 125%;
@@ -11,5 +15,11 @@
     strong {
       color: $danger;
     }
+  }
+}
+
+@media (max-width: 1200px) {
+  .section.hero .hero-image img {
+    display: none;
   }
 }

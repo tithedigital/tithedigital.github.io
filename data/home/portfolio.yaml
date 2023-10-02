@@ -2,7 +2,7 @@ enabled: true
 id: "portfolio"
 
 content:
-  - image: "images/male-investor-gaining-profit-from-investment.png"
+  - image: "images/male-investor-gaining-profit-from-investment.svg"
     pretitle: "For Contributors"
     title: "Keep and grow your cash while funding positive change"
     text: |
@@ -15,7 +15,7 @@ content:
       - label: "Get on the waitlist"
         url: "https://docs.google.com/forms/d/e/1FAIpQLScXmjaQBu3bubby5HQCKUwvxsV05em87pvz8sCpDri2ZjzYgA/viewform?usp=sf_link"
 
-  - image: "images/girls-taking-selfie.png"
+  - image: "images/girls-taking-selfie.svg"
     pretitle: "For Organizations"
     title: "Be more impactful by empowering all of your supporters to contribute"
     text: |
