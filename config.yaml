@@ -43,7 +43,7 @@ params:
 menus:
   main:
     - name: "Home"
-      url: "/#hero"
+      url: "/#"
       weight: 1
 
     # - name: "Our team"
@@ -62,7 +62,7 @@ menus:
 
   footer:
     - name: "Home"
-      url: "/#hero"
+      url: "/#"
       weight: 1
 
     # - name: "Our team"

@@ -16,6 +16,11 @@
       color: $danger;
     }
   }
+  .btn:hover {
+    color: $secondary-blue;
+    background: $success;
+    border-color: $success;
+  }
 }
 
 @media (max-width: 1200px) {

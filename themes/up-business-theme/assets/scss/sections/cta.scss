@@ -1,4 +1,11 @@
-.cta img {
+.cta {
+  img {
     max-height: 475px;
     object-fit: cover;
+  }
+  .btn:hover {
+    color: $secondary-blue;
+    background: $success;
+    border-color: $success;
+  }
 }
